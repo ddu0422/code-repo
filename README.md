@@ -44,7 +44,7 @@
 
 ### 🚩 프로젝트
 
-[페이스북 Cloning](https://github.com/1-sunshine/miniLINKojects-2019)
+[페이스북 Cloning](https://github.com/1-sunshine/miniprojects-2019)
 
 ### 📝 글쓰기
 
